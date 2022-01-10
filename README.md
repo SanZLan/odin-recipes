@@ -1,1 +1,2 @@
-# odin-recipes
+# Recipes Website
+An example of a simple website
