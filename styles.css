@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: #ce973e;
+    font-family: font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+img {
+    align-self: center;
+}
+
+.img-smoothie {
+    height: 500px;
+    width: auto;
+}
+
+.img-shrimp {
+    height: 500px;
+    width: auto;
+}
+
+.img-cheesecake {
+    height: 500px;
+    width: auto;
+}
